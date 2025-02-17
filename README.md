@@ -5,14 +5,19 @@ A simple web-based weather application built using HTML, CSS, and JavaScript. Th
 Features:
 
 Weather Check: Get current weather data for any city.
+
 Temperature: Displays the temperature in Celsius.
+
 Humidity: Shows the current humidity level.
+
 Wind Speed: Get live wind speed data.
 
 Technologies Used:
 
 HTML: Markup for building the structure.
+
 CSS: Styling the layout and making the app responsive.
+
 JavaScript: Fetching live weather data from the OpenWeatherMap API and updating the UI dynamically.
 
 API Used:
